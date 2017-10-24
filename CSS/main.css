@@ -33,6 +33,10 @@ nav li:hover {
   background-color: #cc1465;
 }
 
+div {
+  background-color: #ffe500;
+}
+
 h2 {
   font-family: 'Sigmar One', sans-serif;
   color: #cc1465;
