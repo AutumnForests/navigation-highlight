@@ -16,10 +16,6 @@ h1 {
   padding: .75em;
 }
 
-div ul li {
-  background-color: #ffe500;
-}
-
 nav li {
   font-family: Georgia, sans-serif;
   color: white;
@@ -30,6 +26,10 @@ nav li {
   display: inline-block;
   text-align: center;
   list-style-type: none;
+}
+
+nav li:hover {
+  background-color: #cc1465;
 }
 
 h2 {
