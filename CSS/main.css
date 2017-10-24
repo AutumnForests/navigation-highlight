@@ -19,7 +19,8 @@ nav {
   color: white;
   font-size: 1.125rem;
   background-color:#ffe500;
-  text-decoration-style: none;
+  text-decoration: none;
+  list-style-type: none;
 }
 
 h2 {
