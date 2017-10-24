@@ -14,12 +14,13 @@ h1 {
   background-color:#ffe500;
 }
 
-nav {
+nav li {
   font-family: Georgia, sans-serif;
   color: white;
   font-size: 1.125rem;
   background-color:#ffe500;
-  text-decoration: none;
+  display: inline-block;
+  text-align: center;
   list-style-type: none;
 }
 
