@@ -16,6 +16,10 @@ h1 {
   padding: .75em;
 }
 
+div ul li {
+  background-color: #ffe500;
+}
+
 nav li {
   font-family: Georgia, sans-serif;
   color: white;
