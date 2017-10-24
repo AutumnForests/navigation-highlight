@@ -6,3 +6,27 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+h1 {
+  font-family: Sigmar One, sans-serif;
+  color:#cc1465;
+  font-size: 3rem;
+}
+
+nav {
+  font-family: Georgia, sans-serif;
+  color: white;
+  font-size: 1.125rem;
+}
+
+h2 {
+  font-family: Sigmar One, sans-serif;
+  color:#cc1465;
+  font-size: 1.875rem;
+}
+
+p {
+  font-family: Georgia, sans-serif;
+  color:#2f2d13;
+  font-size: .75rem;
+}
